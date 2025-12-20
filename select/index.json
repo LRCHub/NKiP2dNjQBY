@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "きらきら武士 feat. Deyonná",
+  "base_artist": "レキシ",
+  "createdAt": "2025-12-20T12:44:57.719785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きらきら武士",
+      "artist": "Rekishi",
+      "has_synced": true,
+      "path": "select/01_きらきら武士_Rekishi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きらきら武士",
+      "artist": "レキシ",
+      "has_synced": false,
+      "path": "select/pl_01_きらきら武士_レキシ.txt"
+    }
+  ]
+}
